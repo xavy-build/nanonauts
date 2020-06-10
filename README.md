@@ -1,2 +1,2 @@
-# nanonauts
+# the nanonauts
 Coder Dojo
